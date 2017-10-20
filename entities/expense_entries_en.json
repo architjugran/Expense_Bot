@@ -1,0 +1,95 @@
+[
+  {
+    "value": "junk food",
+    "synonyms": [
+      "chips",
+      "waffers",
+      "chocolate",
+      "kurkure",
+      "parantha",
+      "maggi",
+      "maggie",
+      "junk food",
+      "junk"
+    ]
+  },
+  {
+    "value": "Daily need",
+    "synonyms": [
+      "Daily need",
+      "shampoo",
+      "soap",
+      "surf",
+      "toothpaste",
+      "facewash",
+      "slippers",
+      "chair",
+      "daily need",
+      "coffee",
+      "toilet paper",
+      "sugar",
+      "milk products",
+      "milk",
+      "oil"
+    ]
+  },
+  {
+    "value": "stationery",
+    "synonyms": [
+      "stationery",
+      "pen",
+      "pencil",
+      "notebook",
+      "copy",
+      "geometry kit"
+    ]
+  },
+  {
+    "value": "electronics",
+    "synonyms": [
+      "electronics",
+      "repair",
+      "devices",
+      "mobile",
+      "phone",
+      "headphone",
+      "smartphone"
+    ]
+  },
+  {
+    "value": "wearables",
+    "synonyms": [
+      "wearables",
+      "clothes",
+      "pent",
+      "jeans",
+      "shirt",
+      "T-shirt",
+      "trousers",
+      "hoodies",
+      "undergarment",
+      "underwear",
+      "vest",
+      "shoes",
+      "cloth",
+      "textiles",
+      "sneakers"
+    ]
+  },
+  {
+    "value": "travel",
+    "synonyms": [
+      "flight",
+      "aeroplane",
+      "train",
+      "bus",
+      "tickets",
+      "travel",
+      "ferry",
+      "boat",
+      "ship",
+      "ticket",
+      "travelling"
+    ]
+  }
+]

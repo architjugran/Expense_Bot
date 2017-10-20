@@ -1,0 +1,30 @@
+[
+  {
+    "value": "took",
+    "synonyms": [
+      "took",
+      "take",
+      "borrowed",
+      "borrow",
+      "taken",
+      "from",
+      "got",
+      "recieved",
+      "obtained",
+      "accept a loan",
+      "accepted a loan"
+    ]
+  },
+  {
+    "value": "gave",
+    "synonyms": [
+      "gave",
+      "give",
+      "given",
+      "to",
+      "lend",
+      "lent",
+      "lented"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "value": "expense",
+    "synonyms": [
+      "expense",
+      "expenditure",
+      "spent"
+    ]
+  },
+  {
+    "value": "loan",
+    "synonyms": [
+      "loan",
+      "loans",
+      "take",
+      "give"
+    ]
+  },
+  {
+    "value": "both",
+    "synonyms": [
+      "both",
+      "all"
+    ]
+  },
+  {
+    "value": "none",
+    "synonyms": [
+      "none",
+      "no",
+      "dont",
+      "don\u0027t"
+    ]
+  }
+]
