@@ -1,0 +1,68 @@
+[
+  {
+    "id": "205026a6-bc6d-4d77-ac4a-422dc87ea01d",
+    "data": [
+      {
+        "text": "loan",
+        "alias": "resetspecific",
+        "meta": "@resetspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508496643
+  },
+  {
+    "id": "baa2af94-449f-47eb-82d0-f74198e9804b",
+    "data": [
+      {
+        "text": "expense",
+        "alias": "resetspecific",
+        "meta": "@resetspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508496643
+  },
+  {
+    "id": "7d594796-f2ea-4998-9338-854714aba9e2",
+    "data": [
+      {
+        "text": "none",
+        "alias": "resetspecific",
+        "meta": "@resetspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508495783
+  },
+  {
+    "id": "26997256-d0f2-4a7b-88c8-713e382b7879",
+    "data": [
+      {
+        "text": "reset",
+        "alias": "Reset",
+        "meta": "@Reset",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "both",
+        "alias": "resetspecific",
+        "meta": "@resetspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508495783
+  }
+]

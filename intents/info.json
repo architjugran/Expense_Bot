@@ -1,0 +1,36 @@
+{
+  "id": "e8d9af4c-8f9a-4b4c-83be-6b5847318893",
+  "name": "info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2abfa253-bfc0-41d8-a592-9e392023d931",
+          "dataType": "@Information",
+          "name": "Information",
+          "value": "$Information",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This Bot will help you keep track of your expenses on different categories (automatic classification). It will also keep track of your loans given or taken by you."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508507196,
+  "fallbackIntent": false,
+  "events": []
+}

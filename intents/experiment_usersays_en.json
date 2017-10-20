@@ -1,0 +1,98 @@
+[
+  {
+    "id": "3408335c-68e5-4de5-8571-ddf4e8452f59",
+    "data": [
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "none",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ae1d3ba-a208-4c1c-954c-9d72a8d4276a",
+    "data": [
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "both",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3da46121-8e58-48d3-a0be-62ac71acf041",
+    "data": [
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "expense",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "749a3dfd-f306-4103-8478-19647ff731d7",
+    "data": [
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "loan",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

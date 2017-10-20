@@ -1,0 +1,85 @@
+{
+  "id": "e01cc8eb-ddf1-4e21-9684-004c7f418b4b",
+  "name": "Expense",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3581f8bc-494c-46af-9685-d8f6ce1e3a4e",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "how much money did you spent"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "01772a1b-75d8-47f5-bb1e-42d37092869f",
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": true
+        },
+        {
+          "id": "c932b8e3-9d91-4d2e-8526-99bd2880e2c7",
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        },
+        {
+          "id": "f5f503cc-af1b-409f-9d4c-638801b0cb2b",
+          "required": true,
+          "dataType": "@expense",
+          "name": "expense1",
+          "value": "$expense1",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "where did you spent your money?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "b6c1e63e-83d7-465b-a9a9-6c510d7c77a4",
+          "dataType": "@expense",
+          "name": "expense2",
+          "value": "$expense2",
+          "isList": false
+        },
+        {
+          "id": "48bccd5c-177f-4e19-9f00-50e8f962768f",
+          "dataType": "@spent",
+          "name": "spent",
+          "value": "$spent",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508506886,
+  "fallbackIntent": false,
+  "events": []
+}

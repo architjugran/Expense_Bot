@@ -1,0 +1,71 @@
+{
+  "id": "a141a9ca-aabf-4752-b2d7-9e25f4f1d225",
+  "name": "Loan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "87c1b5b9-c206-4ebb-8825-90f1824f229f",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter the amount!"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "7012e603-282f-410d-8995-9e41457629c2",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify the person\u0027s name"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "cfeb554a-00a1-4dbf-bb7d-8715c951b236",
+          "required": true,
+          "dataType": "@loan",
+          "name": "loan",
+          "value": "$loan",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Did you give or take the money?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508508747,
+  "fallbackIntent": false,
+  "events": []
+}

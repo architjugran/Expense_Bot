@@ -1,0 +1,33 @@
+{
+  "id": "2356452a-6d53-43ea-a133-a7828684f3de",
+  "parentId": "ab730f9a-f64f-4ef1-afe1-c8b2178f54a8",
+  "rootParentId": "123fbfb7-345c-4434-aee0-4a2d5e67b6c6",
+  "name": "Reset - custom - no",
+  "auto": true,
+  "contexts": [
+    "Reset-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Reset.Reset-custom.Reset-custom-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Reset Operation cancelled !"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508496359,
+  "fallbackIntent": false,
+  "events": []
+}

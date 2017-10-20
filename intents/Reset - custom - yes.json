@@ -1,0 +1,41 @@
+{
+  "id": "fd9c1810-abed-4899-897b-08627126f1c1",
+  "parentId": "ab730f9a-f64f-4ef1-afe1-c8b2178f54a8",
+  "rootParentId": "123fbfb7-345c-4434-aee0-4a2d5e67b6c6",
+  "name": "Reset - custom - yes",
+  "auto": true,
+  "contexts": [
+    "Reset-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Reset.Reset-custom.Reset-custom-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d8d9f9e1-508d-479b-91f4-92289652abca",
+          "dataType": "@resetspecific",
+          "name": "resetspecific",
+          "value": "#Reset-custom-followup.resetspecific",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508496296,
+  "fallbackIntent": false,
+  "events": []
+}

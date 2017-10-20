@@ -1,0 +1,518 @@
+[
+  {
+    "id": "a276e5fe-3dc9-4761-b5a8-d2a43cf31dc0",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "stats",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1508505212
+  },
+  {
+    "id": "fa911bae-f63a-4df3-9769-4d8e9676d7c9",
+    "data": [
+      {
+        "text": "the",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "both",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stats",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508504458
+  },
+  {
+    "id": "d9a7cd76-a3cf-4df7-9f3e-8454440c03d4",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " @",
+        "userDefined": false
+      },
+      {
+        "text": "statspecific:statspecific",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508505212
+  },
+  {
+    "id": "f1a7ab06-6f57-4ba0-abe6-48c5b73d4ecf",
+    "data": [
+      {
+        "text": "both",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stats",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508504375
+  },
+  {
+    "id": "e73376c6-e968-44d2-bebf-a115a23a3ad4",
+    "data": [
+      {
+        "text": "show",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "both",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "xx",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508504154
+  },
+  {
+    "id": "bad2ab64-749a-489a-af0c-0d50de65ff51",
+    "data": [
+      {
+        "text": "both",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "rge",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508504154
+  },
+  {
+    "id": "012f9a51-8008-4686-aa08-b1e4b064c6ea",
+    "data": [
+      {
+        "text": "both",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508504154
+  },
+  {
+    "id": "55ce456b-620a-4e2d-82f9-1ab4101b8213",
+    "data": [
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "both",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508503990
+  },
+  {
+    "id": "5aa66894-3e2f-41e6-a131-c86c86bbd6de",
+    "data": [
+      {
+        "text": "show",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "both",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "df",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508503990
+  },
+  {
+    "id": "08e24576-62a6-4403-a5f3-bec1b6d2a871",
+    "data": [
+      {
+        "text": "show",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "both",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508503990
+  },
+  {
+    "id": "f33648c2-f7c4-473e-98d6-b2175d7154a3",
+    "data": [
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "both",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508418868
+  },
+  {
+    "id": "9ac628e9-0a88-4376-afb1-93220910327b",
+    "data": [
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "expense",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508418868
+  },
+  {
+    "id": "c1c00b76-a66c-4bcd-a5b0-d192aefe88a5",
+    "data": [
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "loan",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508418868
+  },
+  {
+    "id": "bd787312-4c89-4a9b-846d-0aaece424c94",
+    "data": [
+      {
+        "text": "both",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508418772
+  },
+  {
+    "id": "d0885078-5bb6-44fc-9b9e-ca5611d98e9a",
+    "data": [
+      {
+        "text": "no",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508418772
+  },
+  {
+    "id": "08a6bc8a-2b58-43df-9df4-f1e7bc997fad",
+    "data": [
+      {
+        "text": "loan",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508418217
+  },
+  {
+    "id": "fd5659c4-55fa-4311-9557-69523034ebda",
+    "data": [
+      {
+        "text": "expense",
+        "alias": "statspecific",
+        "meta": "@statspecific",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508418217
+  }
+]

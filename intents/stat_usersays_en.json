@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2dfb6172-1de7-4e5d-89e2-38812eace3ca",
+    "data": [
+      {
+        "text": "stat",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e50c39db-554f-448d-87d8-6906fb78e9a2",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "stats",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59906eab-87c4-4dee-9f96-f9d1e22cc63f",
+    "data": [
+      {
+        "text": "show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "stats",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

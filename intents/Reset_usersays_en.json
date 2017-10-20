@@ -1,0 +1,40 @@
+[
+  {
+    "id": "c3c91a0c-d2f3-40d8-bec9-78c1ad6135ca",
+    "data": [
+      {
+        "text": "Reset",
+        "alias": "Reset",
+        "meta": "@Reset",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "data",
+        "alias": "stats",
+        "meta": "@stats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2df9fe6f-52a5-4b6b-b8b1-9599ba64efd7",
+    "data": [
+      {
+        "text": "Reset",
+        "alias": "Reset",
+        "meta": "@Reset",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

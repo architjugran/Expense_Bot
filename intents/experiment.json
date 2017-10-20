@@ -1,0 +1,45 @@
+{
+  "id": "f24c7e6e-53ce-4439-b23c-34751da08fcc",
+  "name": "experiment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e137e014-667d-4d95-845e-88eecb11a910",
+          "required": true,
+          "dataType": "@stats",
+          "name": "stats",
+          "value": "$stats",
+          "isList": false
+        },
+        {
+          "id": "3e402b6b-a18f-4806-bf0d-835f53455621",
+          "required": true,
+          "dataType": "@statspecific",
+          "name": "statspecific",
+          "value": "$statspecific",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508497085,
+  "fallbackIntent": false,
+  "events": []
+}

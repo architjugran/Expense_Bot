@@ -1,0 +1,42 @@
+{
+  "id": "0f135099-9d81-4eb8-888c-b73fb2604bdf",
+  "name": "stat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "follow",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fc55ac73-4440-484d-8146-00146c66c1cf",
+          "dataType": "@stats",
+          "name": "stats",
+          "value": "$stats",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Which stats- loan or  expense or both?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508496935,
+  "fallbackIntent": false,
+  "events": []
+}

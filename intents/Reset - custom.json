@@ -1,0 +1,54 @@
+{
+  "id": "ab730f9a-f64f-4ef1-afe1-c8b2178f54a8",
+  "parentId": "123fbfb7-345c-4434-aee0-4a2d5e67b6c6",
+  "rootParentId": "123fbfb7-345c-4434-aee0-4a2d5e67b6c6",
+  "name": "Reset - custom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Reset.Reset-custom",
+      "affectedContexts": [
+        {
+          "name": "Reset-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7c247371-a26e-47f1-9850-c4f4857683a1",
+          "dataType": "@Reset",
+          "name": "Reset",
+          "value": "$Reset",
+          "isList": false
+        },
+        {
+          "id": "fef47bee-c629-4df8-b26e-488590cf5630",
+          "required": false,
+          "dataType": "@resetspecific",
+          "name": "resetspecific",
+          "value": "$resetspecific",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Are you sure?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508496897,
+  "fallbackIntent": false,
+  "events": []
+}

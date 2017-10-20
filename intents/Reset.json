@@ -1,0 +1,49 @@
+{
+  "id": "123fbfb7-345c-4434-aee0-4a2d5e67b6c6",
+  "name": "Reset",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Reset-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2bb0b26c-d5f9-4c70-9d02-800ce463564e",
+          "dataType": "@Reset",
+          "name": "Reset",
+          "value": "$Reset",
+          "isList": false
+        },
+        {
+          "id": "ed1b8dfd-69f1-4319-adda-935e3e5f7f39",
+          "dataType": "@stats",
+          "name": "stats",
+          "value": "$stats",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Which table you want to reset Loan or Expense or both?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508495658,
+  "fallbackIntent": false,
+  "events": []
+}
